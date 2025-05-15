@@ -11,7 +11,7 @@ alguma coisa errada voce pode vazer um comit
 3. (+) (utilisado para fazer contas de soma)
 4. (-) (utilisado para fazer contas de menos)
 
-**uma explicação rapida do codigo**
+**uma explicação rapida do codigo:**
 o codigo é simples e eu vou esplicar detalhadamente
 vamos vazer uma simples pergunta ao seu programa que vamos criar
 
