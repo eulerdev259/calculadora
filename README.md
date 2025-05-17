@@ -28,6 +28,6 @@ vamos vazer uma simples pergunta ao seu programa que vamos criar
 * n1 = input("digite um numero:")
 *       ↑
 *  sera um codigo parafazer a pergunta
-* n1 = imput("digite um numero:")
+* n1 = input("digite um numero:")
 *                  ↑
 * o que sera esibido
