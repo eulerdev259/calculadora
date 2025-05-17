@@ -19,3 +19,17 @@ vamos vazer uma simples pergunta ao seu programa que vamos criar
 1. input
 2. print
 3. "opções" (vamos faser uma tela de seletor)
+
+**primeiramente vamos fazer uma pergunta ao usuario:**
+**o comando é**
+n1 = input("digite um numero:")
+↑
+aonde o numero esta reservado
+
+n1 = input("digite um numero:")
+       ↑
+       sera um codigo parafazer a pergunta
+
+n1 = imput("digite um numero:")
+                  ↑
+                  o que sera esibido
