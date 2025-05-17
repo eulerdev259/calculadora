@@ -22,7 +22,7 @@ vamos vazer uma simples pergunta ao seu programa que vamos criar
 
 **primeiramente vamos fazer uma pergunta ao usuario:**
 **o comando é**
- 1.n1 = input("digite um numero:")
+1. n1 = input("digite um numero:")
 * ↑
 * aonde o numero esta reservado
 
